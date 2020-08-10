@@ -1,7 +1,7 @@
 - job:
     name: build-percona-dbaas-cli
     description: |
-        Do not edit this job through the web!
+        THIS IS JUST TEST
     concurrent: false
     project-type: freestyle
     properties:
